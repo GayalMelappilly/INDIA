@@ -1,0 +1,141 @@
+.btn1{
+    width: 200px;
+    height: 60px;
+    background-color: #f48a2a;
+    font: 2px; 
+    border-radius: 10px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.btn2{
+    width: 200px;
+    height: 60px;
+    background-color: #efe6d3;
+    font: 2px; 
+    border-radius: 10px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.btn3{
+    width: 200px;
+    height: 60px;
+    background-color: #40ad58;
+    font: 2px; 
+    border-radius: 10px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.container-fluid{
+    padding-top: 10px;
+    text-align: center;
+}
+
+.section{
+    margin-top: 120px;
+}
+
+.india-icon{
+    width: 10px;
+    height: 10px;
+}
+
+.background{
+    background-color: bisque;
+    border-style: dashed;
+    border-color: black;
+}
+
+.btn1:hover{
+    background-color: #f7bc85;
+}
+
+.btn2:hover{
+    background-color: #f5f3f0;
+}
+
+.btn3:hover{
+    background-color: #80bd8d;
+}
+
+.heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    font-size: 45px;
+    padding-left: 170px;
+    padding-top: 60px; 
+}
+
+.description{
+    font-size: 20px;
+    padding-left: 110px;
+    padding-right: 110px;
+}
+
+.sub-heading{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    padding-left: 140px;
+    font-size: 30px;
+}
+
+.union{
+    margin-top: 800px;
+}
+
+.delhi{
+    margin-top: 300px;
+}
+
+.taj{
+    margin-top: 1000px;
+}
+
+.footer{
+    padding-top: 40px;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.fa-facebook-square{
+    text-decoration: none;
+    color: #4267B2;
+    }
+    
+.fa-instagram{
+    text-decoration: none;
+    color: #3f729b;
+    }
+    
+.fa-twitter{
+    text-decoration: none;
+    color: #1DA1F2;
+    }
+    
+.fa-youtube{
+    text-decoration: none;
+    color: #FF0000;
+    }
+
+.fa-facebook-square:hover{
+    text-decoration: none;
+    color: #0039ac;
+}    
+
+.fa-youtube:hover{
+    text-decoration: none;
+    color: #d40000;
+}
+
+.fa-twitter:hover{
+    text-decoration: none;
+    color: #0096f3;
+}
+
+.fa-instagram:hover{
+    text-decoration: none;
+    color: #1e6197;
+    }
+
+.tour-table{
+    font-size: 18px;
+}    
